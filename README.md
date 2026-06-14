@@ -74,18 +74,31 @@ Compliance mapping documents: `docs/compliance/`
 SecureStack-SOC-Platform/
 
 ├── docs/
+
 │   ├── architecture/      # Network and system diagrams
+
 │   ├── compliance/        # ISO 27001, SOC2, NDPR mappings
+
 │   ├── playbooks/         # Incident response playbooks
+
 │   └── onboarding/        # Client onboarding guides
+
 ├── configs/
+
 │   ├── wazuh/             # Detection rules and config
+
 │   ├── opnsense/          # Firewall rules
+
 │   ├── keycloak/          # SSO/MFA configuration
+
 │   └── nginx/             # Reverse proxy config
+
 ├── automation/
+
 │   ├── n8n-workflows/     # SOAR automation flows
+
 │   └── claude-prompts/    # AI triage prompt templates
+
 └── screenshots/           # Build documentation
 
 ---
@@ -109,5 +122,5 @@ SecureStack-SOC-Platform/
 
 **Yetunde Duze**  
 Security Infrastructure Engineer 
-[LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/yetunde-duze/) | 
+[LinkedIn](https://www.linkedin.com/in/yetunde-duze/) | 
 [GitHub](https://github.com/TeeLaReina)
