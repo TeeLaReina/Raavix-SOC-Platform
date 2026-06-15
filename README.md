@@ -1,4 +1,4 @@
-# SecureStack SOC Platform
+# Raavix SOC Platform
 
 > A multi-tenant, cloud-native, AI-assisted Security Operations Platform built entirely on open source tooling.
 
@@ -10,7 +10,7 @@
 
 ## What This Is
 
-SecureStack is a fully functional Security Operations Centre (SOC) platform that can be deployed for any organisation needing enterprise-grade security monitoring without enterprise-grade  licensing costs.
+Raavix is a fully functional Security Operations Centre (SOC) platform that can be deployed for any organisation needing enterprise-grade security monitoring without enterprise-grade  licensing costs.
 
 It combines industry-standard open source tools into a single, integrated environment covering detection, alerting, case management, threat intelligence, automated response, and compliance reporting — with Claude AI providing intelligent alert triage and analysis.
 
